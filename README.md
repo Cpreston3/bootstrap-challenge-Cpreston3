@@ -13,6 +13,7 @@ Source your dependencies and resources as needed, and use the Bootstrap document
 
 **Code taken from the official Bootstrap documentation, FontAwesome documentation, and CDN links excepted.**
 
+[Screenshot from 2020-10-16 11-45-46](https://user-images.githubusercontent.com/37227843/96291893-ff2b9980-0fa5-11eb-9321-ac5b95466c7c.png)
 
 
 
